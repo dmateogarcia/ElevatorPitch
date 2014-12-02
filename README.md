@@ -9,7 +9,7 @@ Have you ever ... bla bla bla
 Description of my index preoposal
 
 * 1.- Presentation
-*ghfhg
+     ghfhg
 * 2.- Business Team
 jttuk
 * 3.- The problem
